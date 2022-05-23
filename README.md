@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on React, Frontend in general..
-- 🌱 I’m currently exploring more about Frontend..
 - 👯 I’m open to collaborate on React, Frontend in general...
 
 <!--
