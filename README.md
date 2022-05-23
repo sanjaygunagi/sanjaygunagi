@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Javascript, React..
-- 🌱 I’m currently learning NextJS..
+- 🔭 I’m currently working on React, Fronend in general..
+- 🌱 I’m currently exploring more about Frontend..
+- 👯 I’m open to collaborate on React, Fronend in general...
 
 <!--
 **GSSanjay/GSSanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
