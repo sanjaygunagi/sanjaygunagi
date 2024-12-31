@@ -61,8 +61,8 @@ Check out my [portfolio](https://your-portfolio-link.com) for more projects and 
 
 ## 🌱 Current Learning
 
-- Delving into advanced patterns and best practices in **Frontend Engineering**
-- Exploring **System Design** and **Software Architecture** to build and deploy scalable cloud applications
+- Exploring advanced patterns and best practices in **Frontend Engineering**
+- Expanding my knowledge of **System Design** and **Software Architecture** to build and deploy scalable cloud applications
 
 
 <!--
