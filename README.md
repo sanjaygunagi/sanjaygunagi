@@ -24,13 +24,14 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer** with a passion 
   - Provide mentorship and technical leadership to junior developers.
   - Create great user experiences with performance-optimized applications.
 
+<!--
 ---
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-<!--
+
 ---
 
 ## 🛠️ Projects
