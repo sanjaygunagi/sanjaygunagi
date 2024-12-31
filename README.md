@@ -59,11 +59,11 @@ Check out my [portfolio](https://your-portfolio-link.com) for more projects and 
 
 ---
 
-## 🌱 Current Learning
+## 🌱 Interests
 
 - Exploring advanced patterns and best practices in **Frontend Engineering**.
 - Expanding my knowledge of **System Design** and **Software Architecture** to build and deploy scalable cloud applications.
-
+- **Tinkering:** Experimenting with new programming languages, frameworks, and tools.
 
 <!--
 ---
