@@ -122,7 +122,7 @@ If you're looking for inspiration or want to collaborate on open-source, check o
 <!-- You can optionally include a section for your tech stack graph -->
 <!-- Feel free to use https://github-readme-tech-stack.vercel.app/ to create a dynamic tech stack image -->
 
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/top-langs/?username=your-github-username)
+<!-- ![Tech Stack](https://github-readme-tech-stack.vercel.app/api/top-langs/?username=your-github-username) -->
 
 ---
 
