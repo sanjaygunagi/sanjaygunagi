@@ -10,16 +10,15 @@ I’m passionate about delivering high-quality software that users love and that
 
 - **🔧 Tech Stack**: 
   - Frontend: React, AngularJS, JavaScript, TypeScript, HTML, CSS, SCSS, Redux, Webpack
-  - Backend: Node.js, Java, Python
+  - Backend: Node.js
   - DevOps: Docker, AWS, Jenkins
-  - Tools: Git, Figma, Agile, i18n, WCAG
+  - Tools & Practices: Git, Figma, Agile, i18n, WCAG
 
 - **📚 Skills & Expertise**:
+  - Software Engineering
+  - Web Development 
   - Frontend/UI Development
-  - Building Scalable React Components
-  - Mentoring and Leadership in Software Engineering
-  - Continuous Integration & Deployment (CI/CD)
-  - Accessibility (WCAG) and Internationalization (i18n)
+  - Mentoring and Leadership
 
 - **💡 My Focus**: 
   - Deliver high-quality, maintainable software.
@@ -63,9 +62,8 @@ Check out my [portfolio](https://your-portfolio-link.com) for more projects and 
 
 ## 🌱 Current Learning
 
-- Exploring advanced **React** patterns and best practices
-- Diving deeper into **TypeScript** for better type safety and maintainability
-- Exploring System Design and Software Architecture to build and deploy scalable cloud applications.
+- Delving into advanced patterns and best practices in **Frontend Engineering**
+- Exploring **System Design** and **Software Architecture** to build and deploy scalable cloud applications
 
 
 <!--
