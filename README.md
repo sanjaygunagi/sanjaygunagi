@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sanjay 👨‍💻
+# 👋 Hi, I'm Sanjay Gunagi 👨‍💻
 
 Welcome to my GitHub profile! I'm a Senior Software Engineer with a strong foundation in the Software Development Life Cycle (SDLC). Experienced in designing and developing frontend applications tailored to meet specific system requirements, for projects ranging from small to enterprise-level solutions.
 
