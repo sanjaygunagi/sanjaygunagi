@@ -16,7 +16,7 @@ I’m passionate about delivering high-quality software that users love and that
 - **📚 Skills & Expertise**:
   - Software Engineering
   - Web Development 
-  - Frontend/UI Development
+  - Frontend / UI Development
   - Mentoring and Leadership
 
 - **💡 My Focus**: 
