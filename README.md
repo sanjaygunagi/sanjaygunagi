@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Sanjay 👨‍💻
 
-Welcome to my GitHub profile! I'm a **Senior Software Engineer** with a passion for frontend development and a strong foundation in the full **Software Development Life Cycle (SDLC)**. I specialize in building scalable web applications and have experience in both designing and developing frontend solutions for projects of all sizes—from small apps to large enterprise-level solutions.
+Welcome to my GitHub profile! Senior Software Engineer with a strong foundation in the Software Development Life Cycle (SDLC). Experienced in designing and developing frontend applications tailored to meet specific system requirements, for projects ranging from small to enterprise-level solutions.
+
+I’m passionate about delivering high-quality software that users love and that businesses can rely on. Whether it’s improving existing features or creating something from scratch, I focus on writing clean, maintainable code and always keep the user experience front and center. I also believe in the power of mentoring, sharing knowledge, and working as part of a collaborative team to achieve the best results.
 
 ---
 
