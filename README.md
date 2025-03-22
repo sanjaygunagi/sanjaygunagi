@@ -9,9 +9,9 @@ I’m passionate about delivering high-quality software that users love and that
 ## 🚀 About Me
 
 - **🔧 Tech Stack**: 
-  - Frontend: React, AngularJS, JavaScript, TypeScript, HTML, CSS, SCSS, Redux, Material UI, Webpack, Next.js
-  - Backend: Node.js
-  - Tools & Practices: Git, Figma, Docker, AWS, Jenkins, Agile, i18n, WCAG
+  - Web Technologies & Frameworks: HTML, CSS, JavaScript, React, Redux, Typescript, SCSS, Material UI, AngularJS, Node.js, Next.js
+  - Development Tools & Platforms: Git, Docker, AWS, Jenkins, Linux, Webpack
+  - Methodologies & Practices: Agile, i18n, WCAG
 
 - **📚 Skills & Expertise**:
   - Software Engineering
